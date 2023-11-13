@@ -1,0 +1,158 @@
+czerwone mieso
+red meat
+pluca
+lungs
+serce
+heart
+tetnice
+ateries
+zalodek
+stomach
+stawy
+joints
+zeby
+teeth
+kosci
+bones
+miesnie
+muscles
+zyly
+veins
+tchawica
+trachea
+jelita
+intestines
+polozna
+midwife
+kardiolog
+cardiologist
+dentysta
+dentist
+sanitariusz
+paramedic
+salowy
+porter
+hirurg
+surgeon
+pediatra
+peadiatrician
+dermatolog
+dermatologist
+logopeda
+speech therapist
+lekarz 1 kontaktu
+general practitioner
+cisnienie krwi
+blood pressure
+choroba(nie sickness,disease)
+illness
+choroba(nie sickness,illness)
+disease
+choroba(nie disease,illness)
+sickness
+kostka
+ankle
+zgaga
+heartburn
+blizna
+scar
+szwy
+stitches
+siniak
+bruise
+temblak
+sling
+gips(nie plaster)
+cast
+obtarcie
+graze
+kule (kaleki)
+crutches
+wstrzas
+concussion
+katar
+runny nose
+wymioty
+vomiting
+swedzace
+itchy
+spuchniete
+swollen
+wezly
+glands
+zamazany wzrok
+blurry vision
+bol glowy
+headache
+(poczuc) ulge
+relieve
+leczyc(nie cure,treat)
+heal
+leczyc(nie heal,treat)
+cure
+leczyc(nie heal,cure)
+treat
+zastosowac
+apply
+przepisac(recepte)
+prescribe
+infekcja
+infection
+ziolowa masc
+herbal ointment
+niepelnosprawni
+physically disabled
+niedowidzacy
+visually impaired
+wozek inwalidzki
+wheelchair
+nosze(medzyczne)(l.poj.)
+stretcher
+sala operacyjna
+operating theatre
+oddzial
+ward
+ofiara w wypadku
+casualty
+ofiara smiertelna
+fatality
+godziny odwiedzin
+visiting hours
+neurologia
+neurology
+geriatria
+geriatrics
+podologia
+podiatry
+poloznictwo
+obstetrics
+optyka(medycyna)
+ophthalmology
+radiologia
+radiology
+kardiologia
+cardiology
+stomatologia
+dentistry
+w ciazy
+pregnant
+usg
+ultrasound
+osoby starsze
+elderly
+system nerwowy
+nervous system
+rehabilitacja
+rehabilitation
+odwyk
+withdrawal
+poprzedni (nie previous)
+former
+libacja alkoholowa
+binge
+naduzycie(negatywne)(nie overuse)
+abuse
+narkotyki/leki
+drugs
+uzaleznienie
+addiction

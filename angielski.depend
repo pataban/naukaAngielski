@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1491321540 source:c:\users\agro1\desktop\patryk\programy\æwiczenia\angielski\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<windows.h>
+	<time.h>
+
+1516031680 source:c:\patryk\programy\æwiczenia\angielski\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<math.h>
+	<string>
+	<vector>
+	<fstream>
+	<windows.h>
+	<time.h>
+
+1519157456 source:c:\patryk\programy\u¿yteczne\angielski\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<math.h>
+	<string>
+	<vector>
+	<fstream>
+	<windows.h>
+	<time.h>
+
